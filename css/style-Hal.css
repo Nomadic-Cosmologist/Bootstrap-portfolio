@@ -1,0 +1,12 @@
+img,
+embed,
+object,
+video {
+	max-width: 100%;
+}
+
+#top-logo{
+
+	margin: 5%;
+
+}
